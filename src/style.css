@@ -1,1 +1,17 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#excuse {
+  margin-top: 20%;
+  margin-bottom: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 0;
+}
+#title {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: xx-large;
+}
+#the-excuse {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: xx-large;
+}
